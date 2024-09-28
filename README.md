@@ -1,6 +1,6 @@
 <h1 align="center">  Hello! My name is Aleksey  <img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/Earth.gif"> </h1>
 <div align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/787487773967764468/DFECE37A22797AFBE99114C5407EBE4C0B842329/?imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false" />
+  <img src="https://i.pinimg.com/originals/b4/e3/71/b4e371619042d1e80918d09904e90f7d.gif" width="1000"/>
 </div>
 <h1></h1>
 <p align="left"> I am a Full-Stack developer 💻, have been developing for a year. 
@@ -22,9 +22,8 @@
 
 ### GitHub Stats:
 <div display="flex" align="center">
-  <a href="http://www.github.com/k3ssL"><img src="https://github-readme-stats.vercel.app/api?username=k3ssL&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="k3ssL's GitHub stats" /></a>
-  <a href="https://github.com/k3ssL" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3ssL&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-  <a href="http://www.github.com/k3ssL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k3ssL&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-</div>
+ <a href="http://www.github.com/k3ssL"><img src="https://github-readme-stats.vercel.app/api?username=k3ssL&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=84cc16&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="k3ssL's GitHub stats" /></a>
+<a href="https://github.com/k3ssL" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3ssL&langs_count=10&title_color=84cc16&text_color=84cc16&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/k3ssL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k3ssL&stroke=84cc16&background=000000&ring=84cc16&fire=84cc16&currStreakNum=84cc16&currStreakLabel=84cc16&sideNums=84cc16&sideLabels=84cc16&dates=84cc16&hide_border=true" /></a>
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
