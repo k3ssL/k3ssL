@@ -26,4 +26,6 @@
 <a href="https://github.com/k3ssL" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3ssL&langs_count=10&title_color=22c55e&text_color=22c55e&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <a href="http://www.github.com/k3ssL"><img src="https://github-readme-streak-stats.herokuapp.com/?user=k3ssL&stroke=22c55e&background=000000&ring=22c55e&fire=22c55e&currStreakNum=22c55e&currStreakLabel=22c55e&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=k3ssL&theme=matrix)](https://github.com/k3ssL/github-profile-trophy)
+
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg"/>
