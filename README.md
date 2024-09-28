@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.tenor.com/9vcqrSZshSIAAAAi/happy-happy-monday.gif)My name is Aleksey Gareev
+Hi ![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media.tenor.com/9vcqrSZshSIAAAAi/happy-happy-monday.gif](https://www.emojiall.com/images/120/telegram/telemoji-october-2022/1f4a4.gif))My name is Aleksey Gareev
 ======================================================================================================================================
 
 Full-Stack Developer
